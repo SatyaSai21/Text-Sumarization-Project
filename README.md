@@ -65,8 +65,9 @@ Update the app.py
 	A variant of ROUGE-L, specifically tailored for summarization, comparing the LCS at the summary level.
 
     
-MODEL :
-        pegasus :
+# MODEL :
+        
+	 pegasus :
 
             rouge1	    rouge2	    rougeL	    rougeLsum
 
